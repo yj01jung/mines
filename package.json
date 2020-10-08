@@ -15,7 +15,7 @@
     "@emotion/styled": "^10.0.27",
     "@reduxjs/toolkit": "^1.4.0",
     "emotion-theming": "^10.0.27",
-    "next": "9.5.1",
+    "next": "9.5.4",
     "ramda": "^0.27.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
